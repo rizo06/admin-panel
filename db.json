@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post one",
+      "body": "Just post body",
+      "publishedAt": "13-07-2021"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "Just post body",
+      "publishedAt": "13-07-2021"
+    },
+    {
+      "id": "3",
+      "title": "Post ThReE",
+      "body": "Just post body",
+      "publishedAt": "13-07-2021"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Qwerty",
+      "email": "shoazimoff@gmail.com "
+    }
+  ]
+}
